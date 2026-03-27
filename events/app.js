@@ -13,4 +13,4 @@ emitter.on("greet", (username) => {
     console.log(`hello ${username}`);
 });
 
-emitter.emit("greet","Mallu");
+emitter.emit("greet","mallu");
